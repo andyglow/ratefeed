@@ -1,0 +1,2 @@
+com.github.andyglow.ratefeed.spi.cbr.xml.XmlRateProvider
+com.github.andyglow.ratefeed.spi.cbr.soap.SoapRateProvider

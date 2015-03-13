@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:soap="http://www.w3.org/2003/05/soap-envelope">
+    <soap:Body>
+        <GetCursOnDateXML xmlns="http://web.cbr.ru/">
+            <On_date>2015-03-12T19:10:48.3914576+02:00</On_date>
+        </GetCursOnDateXML>
+    </soap:Body>
+</soap:Envelope>
